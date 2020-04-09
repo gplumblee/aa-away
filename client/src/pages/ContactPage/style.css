@@ -1,0 +1,60 @@
+h1 {
+  font-size: 4rem;
+    font-weight: 600;
+    text-align: center;
+    color: goldenrod;
+    padding-top: 50px;
+}
+
+.contact-container{
+    background-color: #FCF8EE;
+    opacity: .8;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    width: auto;
+}
+  .navbar-brand {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+  
+  .navbar-a {
+      width: 100%;
+      padding-right: 15px;
+      padding-left: 15px;
+      margin-right: auto;
+      margin-left: auto;
+  }
+  
+  .card {
+    border: none;
+  }
+
+  .card-body {
+    background-color: #FCF8EE;
+    border: none;
+    opacity: .9;
+  }
+  .card-title {
+    font-weight: bold;
+    color: #FCF8EE;
+    /* background-color: #50524E; */
+    padding-left: 15px;
+  }
+  .card-subtitle {
+    color: black;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+  }
+  .card-text {
+    color: black;
+    font-weight: lighter;
+    padding-left: 15px;
+    font-size: 14px;
+    text-decoration: none;
+  }
+ 

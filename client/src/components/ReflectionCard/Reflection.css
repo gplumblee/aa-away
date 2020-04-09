@@ -1,0 +1,40 @@
+#reflection-cont {
+  background-color: #fcf8ee;
+  opacity: .8;
+  margin: 50px;
+}
+
+.card-body {
+  border-radius: 20px;
+}
+
+#title {
+  font-size: 2vw;
+  font-family: 'El Messiri', sans-serif;  color: black;
+  background-color: transparent;
+  padding-left: 15px;
+}
+
+#excerpt {
+  font-style: italic;
+  color: black;
+  font-weight: lighter;
+  text-align: justify;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 0;
+}
+
+#reference {
+  text-align: right;
+  color: black;
+  font-weight: lighter;
+  padding-right: 100px;
+  padding-top: 0;
+  padding-bottom: 20px;
+  line-height: 0;
+}
+
+.card-link {
+  margin-left: 15px;
+}
