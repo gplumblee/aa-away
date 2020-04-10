@@ -1,5 +1,5 @@
 const db = require("../models");
-const express = require("./node_modules/express");
+const express = require("express");
 
 module.exports = {
 findAll: function(req, res) {
